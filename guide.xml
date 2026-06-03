@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260603">
+<channel id="2M Monde">
+  <display-name>2M Monde</display-name>
+</channel>
+
 <channel id="ArirangTV.kr@SD"><display-name>KOREA</display-name></channel>
 <channel id="ArirangWorld.kr@SD"><display-name>WORLD</display-name></channel>
 <channel id="ArirangUN.kr@SD"><display-name>UN</display-name></channel>
